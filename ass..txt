@@ -1,0 +1,1 @@
+jupyter nbconvert MegalectricsSalesReport-2021.ipynb --to slides --post serve --template output_toggle
